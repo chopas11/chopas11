@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Nikiforov</h1>
-<h3 align="center">Software engineer from Moscow, MTUCI student</h3>
+<h3 align="center">Software engineer, student</h3>
 
 - 🔭 I’m currently working on [book-service](https://github.com/chopas11/book-service-frontend)
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me:
 E-mail: **alexander.nikiforov.02@gmail.com**
-VK: [@am_nikiforov](https://vk.com/am_nikiforov)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
