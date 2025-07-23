@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Nikiforov</h1>
 <h3 align="center">Software engineer, student</h3>
 
-- 🔭 I’m currently working on [book-service](https://github.com/chopas11/book-service-frontend)
+- 🔭 I’m currently working on [book-service](https://github.com/chopas11/project-gnosis)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Kubernetes NFVI Infrastructure**
 
 - 📫 How to reach me:
 E-mail: **alexander.nikiforov.02@gmail.com**
