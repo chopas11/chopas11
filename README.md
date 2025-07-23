@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Nikiforov</h1>
 <h3 align="center">Software engineer, student</h3>
 
-- 🔭 I’m currently working on [book-service](https://github.com/chopas11/project-gnosis)
+- 🔭 I’m currently working on [project-gnosis](https://github.com/chopas11/project-gnosis)
 
 - 🌱 I’m currently learning **Kubernetes NFVI Infrastructure**
 
